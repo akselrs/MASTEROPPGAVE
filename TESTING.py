@@ -2,7 +2,6 @@ import numpy as np
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-from neqsim.thermo import TPflash, fluid
 from exp_data import viscData
 
 #from https://www.sciencedirect.com/science/article/pii/S0149197024004670#bib28:
